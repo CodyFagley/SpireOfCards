@@ -1,16 +1,6 @@
-#  README.md
-#  Cody Fagley
 #  SpireOfCards
-#  Project Initialized December 16, 2016
+Project Initialized December 16, 2016, Declared Deprecated March 20, 2017.
 
-Spire of Cards is a single player game with the following basics:
-    It is played on a 4 by 4 board containing 9 empty spaces
-    Each Player has 5 cards in their hand initially
-    Each Card has 4 numbers denoting strength in a particular direction
-    The game is over once all 9 spots on the board are filled
+Spire of Cards was a basic test project that allowed me to get a feel for the difficulty associated with getting an app onto my android cell phone.
 
-
-Technical Logistics:
-    SpireOfCards is programmed primarily in Java for portability reasons
-    It uses JFrames to create a portable GUI
-    It stores card information inside a JSON database
+As of March 20, 2017, there are no plans to ever add more to this project.  I have successfully added a blank app to my phone, so if there are plans to create an app in the future, I should have the skillset needed to do so.
